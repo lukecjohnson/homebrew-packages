@@ -1,4 +1,4 @@
-# `lukecjohnson/packages`
+# Homebrew packages
 
 ## Included packages
 
