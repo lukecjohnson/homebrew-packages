@@ -2,7 +2,7 @@
 
 ## Included packages
 
-[dot](https://github.com/lukecjohnson/dot) - A simple tool to save and run frequently used commands
+[run](https://github.com/lukecjohnson/run) - A simple tool to save and run frequently used commands
 
 
 ## Installation
