@@ -1,10 +1,10 @@
 class Run < Formula
-  desc "A simple tool to save and run frequently used commands"
+  desc "Save and run frequently used shell commands"
   homepage "https://github.com/lukecjohnson/run"
-  version "1.0.0-beta.4"
+  version "1.0.0"
   bottle :unneeded
-  url "https://github.com/lukecjohnson/run/releases/download/1.0.0-beta.4/run-1.0.0-beta.4-macos-amd64.tar.gz"
-  sha256 "36bad0fd9bfa66a4bb8293454c530fb4e582990ac8633018e207a3f9182f87d8"
+  url "https://github.com/lukecjohnson/run/releases/download/1.0.0/run-1.0.0-macos-64.tar.gz"
+  sha256 "80e4f2323c273c95d3e2d46aeae5d779de50a511fc2b8e9455cb7a1e7c3fc9a6"
 
   def install
     bin.install "./bin/run"
