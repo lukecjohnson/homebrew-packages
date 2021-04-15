@@ -13,6 +13,6 @@ class Toolkit < Formula
   end
 
   def install
-    bin.install "./bin/run"
+    bin.install "./bin/toolkit"
   end
 end
